@@ -11,7 +11,8 @@ BXC_WORKER="$BASEDIR/bxc-worker"
 BXC_JSON="$BASEDIR/bxc-json.sh"
 
 # BXC_BIN="https://github.com/bettermanbao/BonusCloud-Node/raw/aarch64-N1/aarch64-N1/bxc_aarch64_0.2.2.tgz"
-BXC_BIN="http://fucku.pw:99/bxc32.tar.gz"
+BXC_BIN="https://raw.githubusercontent.com/huah0235/BonusCloud-Node/master/aarch32-armbian/bxc32.tar.gz"
+
 BXC_BOUND_URL="https://console.bonuscloud.io/api/web/devices/bind/"
 BXC_REPORT_URL="https://bxcvenus.com/idb/dev"
 
